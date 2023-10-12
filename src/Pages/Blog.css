@@ -1,0 +1,21 @@
+.card__header {
+    margin-top: 0!important;
+    padding-top: 0!important;
+    justify-content: flex-start!important;
+    align-items: flex-start!important;
+}
+
+.card__header div {
+        margin-top: 0.5rem!important;
+}
+
+.card__collapse {
+    margin-top: 0!important;
+}
+.card__collapse div {
+    margin-top: 0!important;
+}
+
+.corona__image {
+    height: 50vh;
+}
